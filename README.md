@@ -8,10 +8,14 @@
 
 ## 🔧 Technologies & Tools
 
-[![Next][Next.js]][Next-url] [![React][React.js]][React-url] [![Vue][Vue.js]][Vue-url] [![Angular][Angular.io]][Angular-url]  
-[![Laravel][Laravel.com]][Laravel-url] [![Bootstrap][Bootstrap.com]][Bootstrap-url] [![TailwindCSS][TailwindCSS.com]][TailwindCSS-url]  
-[![Node.js][Node.js]][Node-url] [![PostgreSQL][PostgreSQL]][PostgreSQL-url] [![MySQL][MySQL]][MySQL-url]  
-[![Flutter][Flutter.dev]][Flutter-url] [![C++][Cpp.dev]][Cpp-url]
+### 🌐 Languages
+[![JavaScript][JavaScript]][JavaScript-url] [![PHP][PHP]][PHP-url] [![C++][Cpp.dev]][Cpp-url] [![CSS][CSS]][CSS-url]
+
+### 🧩 Frameworks
+[![Next][Next.js]][Next-url] [![React][React.js]][React-url] [![Vue][Vue.js]][Vue-url] [![Angular][Angular.io]][Angular-url] [![Laravel][Laravel.com]][Laravel-url] [![Flutter][Flutter.dev]][Flutter-url]
+
+### 📚 Libraries & Tools
+[![Node.js][Node.js]][Node-url] [![PostgreSQL][PostgreSQL]][PostgreSQL-url] [![MySQL][MySQL]][MySQL-url] [![Bootstrap][Bootstrap.com]][Bootstrap-url] [![TailwindCSS][TailwindCSS.com]][TailwindCSS-url]
 
 ---
 
