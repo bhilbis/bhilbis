@@ -1,8 +1,18 @@
+<p align="center">
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Animated Anime" width="400"/>
+</p>
+
+
 # Hi there! 👋 I'm @bhilbis
 
 🚀 I'm a high school student passionate about web development, currently honing my skills in PHP, HTML, CSS, JavaScript, and beyond.  
 🌱 I'm working on exciting projects that merge innovation with creativity.  
 💡 Always open to collaboration and eager to learn—let's code together and explore new possibilities in the world of tech! 🌐💻✨
+
+### 📫 How to Reach Me:
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/n_bilbis/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhilbis123@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/flexsy-bilbis-triwibowo-ab833a2b1/)
 
 ---
 
