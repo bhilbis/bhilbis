@@ -9,7 +9,8 @@
 ## 🔧 Technologies & Tools
 
 ### 🌐 Languages
-[![JavaScript][JavaScript]][JavaScript-url] [![PHP][PHP]][PHP-url] [![C++][Cpp.dev]][Cpp-url] [![CSS][CSS]][CSS-url]
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://www.javascript.com/) 
+[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/) [![C++][Cpp.dev]][Cpp-url] [![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
 ### 🧩 Frameworks
 [![Next][Next.js]][Next-url] [![React][React.js]][React-url] [![Vue][Vue.js]][Vue-url] [![Angular][Angular.io]][Angular-url] [![Laravel][Laravel.com]][Laravel-url] [![Flutter][Flutter.dev]][Flutter-url]
