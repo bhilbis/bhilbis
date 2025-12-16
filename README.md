@@ -1,82 +1,107 @@
+<!-- Header dengan Banner Anime Luas -->
+<div align="center">
+  <img src="https://media.tenor.com/IHdlTRsmcS4AAAAC/anime-scenery.gif" width="100%" style="border-radius:10px;" />
 
-<h1 align="center">Hi there! 👋 I'm Flexsy Bilbis (@bhilbis)</h1>
+  <!-- Typing SVG -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F778BA&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Flexsy+Bilbis;Web+Developer+%26+Fullstack;WIBU+Code+Sorcerer+✨;PHP+%2B+TypeScript+Enthusiast" alt="Typing SVG" />
+  </a>
+</div>
 
-<p align="center">
-🚀 A passionate <b>Web Developer</b> exploring the world of modern technologies.  
-🌱 Currently focusing on <b>Fullstack Development</b> with PHP, TypeScript, and JavaScript frameworks.  
-💡 Always eager to collaborate, share knowledge, and build impactful projects together!  
+---
+
+<table align="center" border="0" width="100%">
+<tr>
+
+<td width="60%" valign="top">
+
+<h2>🌸 Konnichiwa! (こんにちは)</h2>
+
+<p>
+I'm <b>Flexsy Bilbis</b> (@bhilbis), a passionate <b>Web Developer</b> exploring the limitless world of modern technologies.  
+Like a protagonist in an Isekai anime, I'm constantly leveling up my skills to build impactful projects!
 </p>
 
----
-
-## 📫 Reach Me
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhilbis123@gmail.com)  [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/62859183953992)
-
----
-
-## 🔧 Technologies & Tools
-
-### 🌐 Languages
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### 🧩 Frameworks
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-
-### 📚 Libraries & Tools
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bhilbis&show_icons=true&theme=radical" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhilbis&layout=compact&theme=radical" height="160" />
+<p>
+🌱 <b>Currently Learning:</b> Advanced Fullstack patterns with PHP & TS.<br/>
+💡 <b>Motivation:</b> "Code is art, and the browser is my canvas."<br/>
+⛩️ <b>Hobbies:</b> Coding, Anime binging, and solving complex bugs.
 </p>
 
+<p align="left">
+  <a href="mailto:bhilbis123@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30"/>
+  </a>
+  <a href="https://wa.me/62859183953992">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="30"/>
+  </a>
+</p>
+
+</td>
+
+<td width="40%" align="center">
+  <img src="https://media.giphy.com/media/13CoXDiaCcCoyk/giphy.gif" width="80%" alt="Coding Mascot"/>
+</td>
+
+</tr>
+</table>
+
 ---
 
-✨ _“Code, Learn, Share, and Grow”_ ✨
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Starttoaster/Starttoaster/master/assets/divider1.png" width="100%"/>
+</div>
 
-[Next.js]: https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
-[Next-url]: https://nextjs.org/
-[React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
-[React-url]: https://reactjs.org/
-[Vue.js]: https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D
-[Vue-url]: https://vuejs.org/
-[Angular.io]: https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white
-[Angular-url]: https://angular.io/
-[Laravel.com]: https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white
-[Laravel-url]: https://laravel.com/
-[Bootstrap.com]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
-[Bootstrap-url]: https://getbootstrap.com/
-[TailwindCSS.com]: https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white
-[TailwindCSS-url]: https://tailwindcss.com/
-[Node.js]: https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white
-[Node-url]: https://nodejs.org/
-[PostgreSQL]: https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white
-[PostgreSQL-url]: https://www.postgresql.org/
-[MySQL]: https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white
-[MySQL-url]: https://www.mysql.com/
-[Flutter.dev]: https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white
-[Flutter-url]: https://flutter.dev/
-[Cpp.dev]: https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white
-[Cpp-url]: https://isocpp.org/
+<h2 align="center">⚡ Technologies & Arsenal</h2>
 
-<!---
-bhilbis/bhilbis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div align="center">
+
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D"/>
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bhilbis&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhilbis&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" height="170"/>
+</div>
+
+---
+
+<div align="center">
+  <!-- <img src="https://raw.githubusercontent.com/Starttoaster/Starttoaster/master/assets/divider1.png" width="100%" style="transform: scaleX(-1);"/> -->
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
+</div>
+
+<h3 align="center">🧩 Otaku Zone</h3>
+
+<div align="center">
+  <!-- <img src="https://github-readme-quotes.herokuapp.com/quote?theme=tokyonight&animation=true" height="180"/> -->
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+  <p><i>"Programming is not about what you know; it's about what you can figure out."</i></p>
+</div>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=bhilbis&label=Profile+Views&color=blueviolet&style=flat-square"/>
+</p>
+
