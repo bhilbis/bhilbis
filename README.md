@@ -1,10 +1,11 @@
 <!-- Header dengan Banner Anime Luas -->
 <div align="center">
-  <img src="https://media.tenor.com/IHdlTRsmcS4AAAAC/anime-scenery.gif" width="100%" style="border-radius:10px;" />
+  <!-- <img src="https://media.tenor.com/IHdlTRsmcS4AAAAC/anime-scenery.gif" width="100%" style="border-radius:10px;" /> -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Flexsy%20Bilbis&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%" />
 
   <!-- Typing SVG -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F778BA&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Flexsy+Bilbis;Web+Developer+%26+Fullstack;WIBU+Code+Sorcerer+✨;PHP+%2B+TypeScript+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F778BA&center=true&vCenter=true&width=600&lines=Hi+there!;Im+Web+Developer+%26+Fullstack;WIBU+Code+Sorcerer+✨;Technology+WebSite+Enthusiast" alt="Typing SVG" />
   </a>
 </div>
 
@@ -40,7 +41,8 @@ Like a protagonist in an Isekai anime, I'm constantly leveling up my skills to b
 </td>
 
 <td width="40%" align="center">
-  <img src="https://media.giphy.com/media/13CoXDiaCcCoyk/giphy.gif" width="80%" alt="Coding Mascot"/>
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
+
 </td>
 
 </tr>
@@ -49,7 +51,7 @@ Like a protagonist in an Isekai anime, I'm constantly leveling up my skills to b
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Starttoaster/Starttoaster/master/assets/divider1.png" width="100%"/>
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 </div>
 
 <h2 align="center">⚡ Technologies & Arsenal</h2>
