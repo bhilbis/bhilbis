@@ -24,7 +24,7 @@ Like a protagonist in an Isekai anime, I'm constantly leveling up my skills to b
 </p>
 
 <p>
-🌱 <b>Currently Learning:</b> Advanced Fullstack patterns with PHP & TS.<br/>
+🌱 <b>Currently Learning:</b> Advanced Fullstack patterns with TS.<br/>
 💡 <b>Motivation:</b> "Code is art, and the browser is my canvas."<br/>
 ⛩️ <b>Hobbies:</b> Coding, Anime binging, and solving complex bugs.
 </p>
