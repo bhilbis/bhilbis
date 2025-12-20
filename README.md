@@ -41,8 +41,7 @@ Like a protagonist in an Isekai anime, I'm constantly leveling up my skills to b
 </td>
 
 <td width="40%" align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
-
+  <img src="https://media.giphy.com/media/13CoXDiaCcCoyk/giphy.gif" width="80%" alt="Coding Mascot"/>
 </td>
 
 </tr>
